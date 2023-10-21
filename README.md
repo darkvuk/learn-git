@@ -50,3 +50,7 @@ Updatuj kod na najnovije stanje
 
 Obrisi branch
 > git branch -d NAZIV
+
+Opozovi commit
+> git reset HASHCODE
+> git reset --hard HASHCODE
