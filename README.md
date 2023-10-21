@@ -22,3 +22,5 @@ Commit (Kod je samo sacuvan lokalno)
 
 Push
 > git push origin master
+>
+> git checkout main
