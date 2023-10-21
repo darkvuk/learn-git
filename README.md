@@ -4,7 +4,7 @@
 - Kreiraj repozitorijum na Githubu
 - Kreiraj README.md fajl
 
-# VSCode
+# Dio 1
 Preuzima sadrzaj iz zeljenog repozitorijuma
 > git clone https://github.com/darkvuk/learn-git.git
 
