@@ -10,3 +10,6 @@ Preuzima sadrzaj iz zeljenog repozitorijuma
 
 Udji u direktorijum
 > cd learn-git
+
+Prikazuje fajlove koji su izmijenjeni, kreirani ili obrisani
+> git status
