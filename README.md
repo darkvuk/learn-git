@@ -29,4 +29,9 @@ Promijeni branch
 > git checkout main
 
 Prikazi razliku izmedju brancheva (npr. na mainu)
->> git diff NAZIV_DRUGOG_BRANCHA
+> git diff NAZIV_DRUGOG_BRANCHA
+
+Push branch na Github
+> git push --set-upstream origin feature1
+
+* Na Githubu odraditi merge na master
