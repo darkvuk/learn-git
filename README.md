@@ -21,6 +21,12 @@ Commit (Kod je samo sacuvan lokalno)
 > git commit -m "NASLOV" -m "OPIS"
 
 Push
-> git push origin master
+> git push origin main
+
+Promijeni branch
+> git checkout NAZIV
 >
 > git checkout main
+
+Prikazi razliku izmedju brancheva (npr. na mainu)
+>> git diff NAZIV_DRUGOG_BRANCHA
