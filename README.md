@@ -35,3 +35,6 @@ Push branch na Github
 > git push --set-upstream origin feature1
 
 * Na Githubu odraditi merge na master
+
+Updatuj kod na najnovije stanje
+> git pull
