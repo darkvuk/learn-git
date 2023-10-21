@@ -14,8 +14,8 @@ Udji u direktorijum
 Prikazuje fajlove koji su izmijenjeni, kreirani ili obrisani
 > git status
 
-Priprema fajlova za sljedeci commit (staging)
+Priprema fajlova za sljedeci commit (Staging)
 > git add .
 
-Commit 
+Commit (Kod je samo sacuvan lokalno)
 > git commit -m "NASLOV" -m "OPIS"
