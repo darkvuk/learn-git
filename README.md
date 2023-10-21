@@ -34,4 +34,3 @@ Kreiraj branch
 
 Mijenjanje brancheva
 > git checkout NAZIV
-> git checkout
