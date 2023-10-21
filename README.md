@@ -19,3 +19,6 @@ Priprema fajlova za sljedeci commit (Staging)
 
 Commit (Kod je samo sacuvan lokalno)
 > git commit -m "NASLOV" -m "OPIS"
+
+Push
+> git push origin master
