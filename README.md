@@ -13,3 +13,9 @@ Udji u direktorijum
 
 Prikazuje fajlove koji su izmijenjeni, kreirani ili obrisani
 > git status
+
+Priprema fajlova za sljedeci commit (staging)
+> git add .
+
+Commit 
+> git commit -m "NASLOV" -m "OPIS"
