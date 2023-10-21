@@ -45,7 +45,7 @@ Push branch na Github
 
 * Na Githubu odraditi merge na master
 
-Updatuj kod na najnovije stanje
+Azuriraj kod na najnovije stanje
 > git pull
 
 Obrisi branch
@@ -54,3 +54,4 @@ Obrisi branch
 Opozovi commit
 > git reset HASHCODE
 > git reset --hard HASHCODE
+
