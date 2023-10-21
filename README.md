@@ -22,3 +22,16 @@ Commit (Kod je samo sacuvan lokalno)
 
 Push
 > git push origin master
+
+
+# Grananje
+
+Provjeri grane
+> git branch
+
+Kreiraj branch
+> git checkout -b NAZIV
+
+Mijenjanje brancheva
+> git checkout NAZIV
+> git checkout
