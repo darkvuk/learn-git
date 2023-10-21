@@ -1,3 +1,5 @@
 # Demo
 
-Some description.
+- Kreiraj repozitorijum na Githubu
+- Kreiraj README.md fajl
+
