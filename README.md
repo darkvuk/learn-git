@@ -14,14 +14,23 @@ Udji u direktorijum
 Prikazuje fajlove koji su izmijenjeni, kreirani ili obrisani
 > git status
 
-Priprema fajlova za sljedeci commit (Staging)
+Priprema fajlova za sljedeci commit (Staging) - SAMO AKO FAJL NE POSTOJI
 > git add .
 
-Commit (Kod je samo sacuvan lokalno)
+Opozovi staging
+> git reset
+> git reset IME_FAJLA
+> git reset HEAD~1
+
+Commit (Kod je samo sacuvan lokalno) 
 > git commit -m "NASLOV" -m "OPIS"
+> git commit -am "NASLOV" -m "OPIS"
 
 Push
 > git push origin main
+
+Pogledaj aktuelne brancheve
+> git branch
 
 Promijeni branch
 > git checkout NAZIV
@@ -38,3 +47,6 @@ Push branch na Github
 
 Updatuj kod na najnovije stanje
 > git pull
+
+Obrisi branch
+> git branch -d NAZIV
