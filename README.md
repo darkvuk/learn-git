@@ -55,3 +55,22 @@ Opozovi commit
 > git reset HASHCODE
 > git reset --hard HASHCODE
 
+-----------------------------------
+
+# Novi repozitorijum
+
+* Kreiramo novi direktorijum u VSCode
+
+Mijenjamo trenutni direktorijum u terminalu
+> cd ../learn-git2
+
+Inicijalizujemo GIT
+> git init
+
+* Kreiramo repozitorijum sa istim imenom na Githubu
+
+Dodajemo origin
+> git remote add origin https://github.com/darkvuk/learn-git2.git
+
+Push
+> git push origin master
